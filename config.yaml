@@ -19,7 +19,7 @@ remote-management:
 # Management key. If a plaintext value is provided here, it will be hashed on startup.
 # All management requests (even from localhost) require this key.
 # Leave empty to disable the Management API entirely (404 for all /v0/management routes).
-  secret-key: "$2a$10$oDYRGU.klg32OIPvh4aHrO/hk66PlfLzxVhJLumL3LYhlNDBvXNFS"
+  secret-key: "aravindtestkey"
 # Disable the bundled management control panel asset download and HTTP route when true.
   disable-control-panel: false
 # GitHub repository for the management control panel. Accepts a repository URL or releases API URL.
