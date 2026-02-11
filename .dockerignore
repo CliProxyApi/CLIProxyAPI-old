@@ -19,7 +19,6 @@ LICENSE
 auths/*
 logs/*
 conv/*
-config.yaml
 
 # Development/editor
 bin/*
